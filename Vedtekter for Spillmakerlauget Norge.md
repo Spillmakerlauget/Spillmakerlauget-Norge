@@ -50,7 +50,7 @@ med minst en måneds varsel og kun sakene nevnt i innkallingen kan tas opp.
 
 ## Styret
 
-### §6 Styrets Sammensetning
+### § 6 Styrets Sammensetning
 Utenfor landsmøtet er Styret Spillmakerlauget Norges øverste organ. Styret skal bestå av to representanter fra hver medlemsorganisasjon. samt en styreleder og nestleder valgt av landsmøtet. Hvis en medlemsorganisasjon ikke kan stille med to representanter til styret, kan de velge en representant med dobbeltstemme.
 
 Ved frafall fra styret må medlemsorganisasjonen selv supplere styret med ny representant. Supplerte styremedlemmer sitter i styret frem til neste landsmøte.
@@ -63,7 +63,7 @@ Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rolle
 
 Regionalt Laug må levere inn liste over vara med kontaktinformasjon til Spillmakerlaugets styre.
 
-### §7 Styrets ansvar og vedtaksdyktighet
+### § 7 Styrets ansvar og vedtaksdyktighet
 Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst ⅔ av medlemsorganisasjonene er representert på styremøtet. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett.
 
 ## Diverse
