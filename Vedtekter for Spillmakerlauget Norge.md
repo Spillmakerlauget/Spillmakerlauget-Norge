@@ -27,18 +27,22 @@ Medlemskap i Spillmakerlauget Norge krever innbetaling av medlemskontingent som 
 ## Landsmøtet
 
 ### § 4 Landsmøtet
-1. Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst fire ukers varsel. Styret skal sende ut saksliste minst to uker før landsmøtet.
+Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst fire ukers varsel. Styret skal sende ut saksliste minst to uker før landsmøtet.
 
-2. Hver medlemsorganisasjon kan sende 1-2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representant fra Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest to uker to uker før landsmøtet.
+Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest to uker to uker før landsmøtet.
 
-3. Følgende saker skal alltid tas opp på landsmøtet:
-  - a. Valg av møteleder og referent.
-  - b. Årsmelding fra styret.
-  - c. Eventuelle vedtektsendringer.
-  - d. Fastsette medlemskontingent prosentandel for neste medlemsår.
-  - e. Valg av Styreleder og nestleder annethvert år, til å representere Spillmakerlauget Norge.
-  - f. Redegjøring for økonomi og budsjett.
-  - g. Behandle innsendte saker.
+Landsmøtet skal behandle følgende saker:
+1.	Velge møteleder, referent og 2 protokollunderskrivere.
+1.	Behandle årsmelding og eventuelle gruppeårsmeldinger.
+1.	Behandle regnskap (i revidert stand hvis foreningen er revisjonspliktig).
+1.	Fastsette medlemskontingent.
+1.	Vedta budsjett.
+1.	Behandle innkomne forslag og saker.
+1.	Velge:
+    - Leder og nestleder annethvert år
+    - Revisor (hvis foreningen er revisjonspliktig)
+
+Leder og nestleder velges enkeltvis.
 
 ### § 5 Ekstraodinært landsmøte
 Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst en måneds varsel og kun sakene nevnt i innkallingen kan tas opp.
