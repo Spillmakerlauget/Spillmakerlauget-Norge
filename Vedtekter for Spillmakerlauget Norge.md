@@ -5,7 +5,7 @@ Sist endret 24. oktober 2020.
 ## Formål og medlemskap
 
 ### § 1 Formål
-Spillmakerlauget Norge, er en paraplyorganisasjon for regionale spillmakerlaug i Norge.
+Spillmakerlauget Norge er paraplyorganisasjonen for regionale spillmakerlaug i Norge.
 
 Lauget har følgende formål:
 - Drift av Spillmakerlauget.no
@@ -17,15 +17,12 @@ Lauget har følgende formål:
 ### § 2 Medlemskap
 Medlemskap i Spillmakerlauget Norge er for regionale laug, heretter kalt medlemsorganisasjoner.
 
-For å bli medlem av Spillmakerlauget Norge må et regionalt Laug være opprettet med styre og sende formell søknad til Spillmakerlauget Norge.
+For å bli medlem av Spillmakerlauget Norge må et regionalt laug være opprettet med styre og sende formell søknad til Spillmakerlauget Norge.
 
 For at et nytt laug skal bli medlem må det vedtas med ⅔ stemmer ved et nasjonalt styremøte. Medlemsår og regnskapsår skal følge kalenderåret.
 
 ### § 3 Kontigent
 Medlemskap i Spillmakerlauget Norge krever innbetaling av medlemskontingent som vil være en prosent andel av medlemsorganisasjonens inntekter fra egen medlemskontigent. Prosentandelen blir fastsatt av Spillmakerlauget Norges landsmøte.
-
-Forslag årsmøte 2021:
-Legge til minimumsbeløp ved meldemskontigenten
 
 ## Landsmøtet
 
@@ -44,27 +41,25 @@ Legge til minimumsbeløp ved meldemskontigenten
   - g. Behandle innsendte saker.
 
 ### § 5 Ekstraodinært landsmøte
-Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene
-eller over halvparten av styret i Spillmakerlauget Norge krever det.. Innkalling må sendes ut
-med minst en måneds varsel og kun sakene nevnt i innkallingen kan tas opp.
+Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst en måneds varsel og kun sakene nevnt i innkallingen kan tas opp.
 
 ## Styret
 
-### § 6 Styrets Sammensetning
-Utenfor landsmøtet er Styret Spillmakerlauget Norges øverste organ. Styret skal bestå av to representanter fra hver medlemsorganisasjon. samt en styreleder og nestleder valgt av landsmøtet. Hvis en medlemsorganisasjon ikke kan stille med to representanter til styret, kan de velge en representant med dobbeltstemme.
+### § 6 Styrets sammensetning
+Utenfor landsmøtet er Styret Spillmakerlauget Norges øverste organ. Styret skal bestå av to representanter fra hver medlemsorganisasjon, samt en styreleder og nestleder valgt av landsmøtet. Hvis en medlemsorganisasjon ikke kan stille med to representanter til styret, kan de velge en representant med dobbeltstemme.
 
 Ved frafall fra styret må medlemsorganisasjonen selv supplere styret med ny representant. Supplerte styremedlemmer sitter i styret frem til neste landsmøte.
 
-Under første styremøte etter gjennomført landsmøte skal styret selv fordele følgende rollerinnad:
+Under første styremøte etter gjennomført landsmøte skal styret selv fordele følgende roller innad:
 - Økonomiansvarlig
 - Sekretær
 
 Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør. Styret er pålagt å fylle disse rollene. 
 
-Regionalt Laug må levere inn liste over vara med kontaktinformasjon til Spillmakerlaugets styre.
+Regionalt laug må levere inn liste over vara med kontaktinformasjon til Spillmakerlaugets styre.
 
 ### § 7 Styrets ansvar og vedtaksdyktighet
-Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst ⅔ av medlemsorganisasjonene er representert på styremøtet. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett.
+Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst ⅔ av medlemsorganisasjonene er representert på styremøtet. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht. norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett.
 
 ## Diverse
 
