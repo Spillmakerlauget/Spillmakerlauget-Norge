@@ -1,10 +1,12 @@
 # Vedtekter for Spillmakerlauget Norge
 
-Sist endret 24. oktober 2020.
+Sist endret 19. juni 2021.
 
 ## Formål og medlemskap
 
-### § 1 Formål
+### § 1 Navn og formål
+Foreningens navn er Spillmakerlauget Øst og ble stiftet 6. juni 2015. Engelsk navn er Norwegian Game Makers Guild.
+
 Spillmakerlauget Norge er paraplyorganisasjonen for regionale spillmakerlaug i Norge.
 
 Lauget har følgende formål:
