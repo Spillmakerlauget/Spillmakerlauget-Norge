@@ -45,9 +45,9 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Landsmøtet
-Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst fire ukers varsel. Styret skal sende ut saksliste minst to uker før landsmøtet.
+Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 4 ukers varsel. Styret skal sende ut saksliste minst 2 uker før landsmøtet.
 
-Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest to uker to uker før landsmøtet.
+Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
@@ -63,22 +63,23 @@ Landsmøtet skal behandle følgende saker:
 Leder og nestleder velges enkeltvis.
 
 ## § 9 Ekstraodinære landsmøter
-Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst en måneds varsel og kun sakene nevnt i innkallingen kan tas opp.
+Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst 4 ukers varsel og kun sakene nevnt i innkallingen kan tas opp.
 
 ## § 10 Styret
-Utenfor landsmøtet er Styret Spillmakerlauget Norges øverste organ. Styret skal bestå av to representanter fra hver medlemsorganisasjon, samt en styreleder og nestleder valgt av landsmøtet. Hvis en medlemsorganisasjon ikke kan stille med to representanter til styret, kan de velge en representant med dobbeltstemme.
+Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av to representanter fra hver medlemsorganisasjon, samt en styreleder og nestleder valgt av landsmøtet. Hvis en medlemsorganisasjon ikke kan stille med to representanter til styret, kan de velge en representant med dobbeltstemme.
 
-Ved frafall fra styret må medlemsorganisasjonen selv supplere styret med ny representant. Supplerte styremedlemmer sitter i styret frem til neste landsmøte.
+Hvert regionale laug må levere inn liste over styrerepresentanter og varaer med kontaktinformasjon til Spillmakerlaugets sentralstyre etter at disse er valgt på regionalt årsmøte eller supplert på regionalt styremøte.
+
+Ved frafall fra styret må aktuell medlemsorganisasjon selv supplere styret med ny representant. Supplerte styremedlemmer sitter i styret frem til neste landsmøte.
 
 Under første styremøte etter gjennomført landsmøte skal styret selv fordele følgende roller innad:
 - Økonomiansvarlig
 - Sekretær
+- Arrangementsansvarlig
 
 Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør. Styret er pålagt å fylle disse rollene. 
 
-Regionalt laug må levere inn liste over vara med kontaktinformasjon til Spillmakerlaugets styre.
-
-Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når minst ⅔ av medlemsorganisasjonene er representert på styremøtet. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht. norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett.
+Det holdes styremøte minst én gang hvert kvartal. Styret er kun vedtaksdyktig når et alminnelig flertall av medlemsorganisasjonene er representert på styremøtet. Styrets medlemmer er ansvarlige for foreningens økonomiske disposisjoner ihht. norsk lov. Det er styrets leder og ett styremedlem i fellesskap som har tegningsrett.
 
 ## § 11 Grupper/avdelinger
 Spillmakerlauget kan organiseres med avdelinger og/eller grupper. Disse kan ledes av oppnevnte tillitspersoner eller av valgte styrer. Landsmøtet eller styret bestemmer opprettelsen av avdelinger/grupper, og hvordan disse skal organiseres og ledes.
