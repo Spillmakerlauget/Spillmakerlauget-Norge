@@ -5,26 +5,30 @@ Sist endret 19. juni 2021.
 ## Formål og medlemskap
 
 ### § 1 Navn og formål
-Foreningens navn er Spillmakerlauget Øst og ble stiftet 6. juni 2015. Engelsk navn er Norwegian Game Makers Guild.
+Foreningens navn er Spillmakerlauget og ble stiftet 6. juni 2015. Navnet Spillmakerlauget Norge blir noen ganger brukt for å skille det tydelig fra regionale laug. Engelsk navn er Norwegian Game Makers Guild.
 
 Spillmakerlauget Norge er paraplyorganisasjonen for regionale spillmakerlaug i Norge.
 
 Lauget har følgende formål:
-- Drift av Spillmakerlauget.no
+
 - Å være bindeleddet mellom regionale laug i Norge for å tilrettelegge for bærekraftig spillutviklingsmiljø.
 - Å være en ideell og uavhengig organisasjon.
 - Å opprette og vedlikeholde felles fora for sine medlemmer og spillnæringen i Norge.
 - Arbeide for rettighetene til arbeidere i spillindustrien.
+- Drift av Spillmakerlauget.no.
+- Drift av medlemsliste.
 
 ### § 2 Medlemskap
-Medlemskap i Spillmakerlauget Norge er for regionale laug, heretter kalt medlemsorganisasjoner.
+Alle enkeltpersoner med interesse for spillutvikling og å fremme spillutvikling som bransje kan bli medlem av Spillmakerlauget Norge, som er ansvarlig for medlemsliste. Hvis Spillmakerlauget Norge har medlemskontingent, betales den forskuddsvis, og man regnes som medlem fra når man har betalt den.
 
-For å bli medlem av Spillmakerlauget Norge må et regionalt laug være opprettet med styre og sende formell søknad til Spillmakerlauget Norge.
+Medlemmer som skylder kontingent for mer enn ett år, har ikke stemmerett eller andre rettigheter, og kan av enten av det regionale styret til medlemmet eller sentralstyret i Spillmakerlauget Norge strykes som medlem av foreningen. Strykes et medlem, kan det ikke tas opp igjen før det betaler kontingent igjen.
 
-For at et nytt laug skal bli medlem må det vedtas med ⅔ stemmer ved et nasjonalt styremøte. Medlemsår og regnskapsår skal følge kalenderåret.
+Nye medlemmer i Spillmakerlauget (Norge) har tilknytning og stemmerett til det regionale lauget som medlemmet selv har valgt.
+
+Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Øst ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
 ### § 3 Kontigent
-Medlemskap i Spillmakerlauget Norge krever innbetaling av medlemskontingent som vil være en prosent andel av medlemsorganisasjonens inntekter fra egen medlemskontigent. Prosentandelen blir fastsatt av Spillmakerlauget Norges landsmøte.
+Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt kontingent for sine medlemmer. Årsmøte i et regionalt laug kan ved behov fastsette tilleggskontingent som Spillmakerlauget Norge krever inn for dem. Hvis Spillmakerlauget Norge ikke har medlemskontingent, kan årsmøtet i et regionalt laug fastsette kontingent som Spillmakerlauget Øst krever inn direkte fra sine medlemmer.
 
 ## Landsmøtet
 
