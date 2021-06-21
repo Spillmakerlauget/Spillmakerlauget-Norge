@@ -3,7 +3,7 @@
 Sist endret 19. juni 2021.
 
 ## § 1 Navn
-Foreningens navn er Spillmakerlauget og ble stiftet 6. juni 2015. Navnet Spillmakerlauget Norge blir noen ganger brukt for å skille det tydelig fra regionale laug. Engelsk navn er Norwegian Game Makers Guild.
+Foreningens navn er Spillmakerlauget og ble stiftet 6. juni 2015. Navnet Spillmakerlauget Norge blir noen ganger brukt for å skille det tydelig fra regionale laug. Engelsk navn er Game Makers Guild of Norway.
 
 ## § 2 Formål og visjon
 Spillmakerlauget er interesseorganisasjon for enkeltpersoner som lager eller ønsker å lage spill i Norge, både profesjonelle og hobbyister. Spillmakerlauget Norge er paraplyorganisasjonen for regionale spillmakerlaug i Norge. 
@@ -31,10 +31,10 @@ Medlemmer som skylder kontingent for mer enn ett år, har ikke stemmerett eller 
 
 Nye medlemmer i Spillmakerlauget (Norge) har tilknytning og stemmerett til det regionale lauget som medlemmet selv har valgt.
 
-Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Øst ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
+Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Norge ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
 ## § 5 Kontigent
-Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt kontingent for sine medlemmer. Årsmøte i et regionalt laug kan ved behov fastsette tilleggskontingent som Spillmakerlauget Norge krever inn for dem. Hvis Spillmakerlauget Norge ikke har medlemskontingent, kan årsmøtet i et regionalt laug fastsette kontingent som Spillmakerlauget Øst krever inn direkte fra sine medlemmer.
+Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt kontingent for sine medlemmer. Årsmøte i et regionalt laug kan ved behov fastsette tilleggskontingent som Spillmakerlauget Norge krever inn for dem. Hvis Spillmakerlauget Norge ikke har medlemskontingent, kan årsmøtet i et regionalt laug fastsette kontingent som Spillmakerlauget Norge krever inn direkte fra sine medlemmer.
 
 ## § 6 Stemmerett og valgbarhet
 For å ha stemmerett må man være fylt 18 år, ha hatt gyldig medlemskap i minst 2 uker og ha oppfylt medlemsforpliktelsene. Ingen kan møte eller avgi stemme ved fullmakt.
@@ -45,9 +45,9 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Landsmøtet
-Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 4 ukers varsel. Styret skal sende ut saksliste minst 2 uker før landsmøtet.
+Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Styret skal sende ut saksliste minst 5 dager før landsmøtet.
 
-Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet.
+Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
