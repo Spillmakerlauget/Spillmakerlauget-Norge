@@ -47,7 +47,7 @@ Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktis
 ## § 8 Landsmøtet
 Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Styret skal sende ut saksliste minst 5 dager før landsmøtet.
 
-Hver medlemsorganisasjon kan sende opp til 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
+Hver medlemsorganisasjon kan sende opptil 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
