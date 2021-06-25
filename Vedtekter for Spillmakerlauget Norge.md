@@ -33,7 +33,7 @@ Nye medlemmer i Spillmakerlauget (Norge) har tilknytning og stemmerett til det r
 
 Styret kan med 2/3 flertall suspendere medlemmer i Spillmakerlauget Norge ved alvorlige og gjentatte brudd på vedtekter og/eller oppførselsregler (Code of Conduct). Ekskludering av medlemmer kan bare skje hvis påfølgende regionale årsmøte og landsmøte vedtar det med 2/3 flertall. Suspenderte medlemmer har ikke medlemsrettighetter før suspensjon er opphevet. Medlemmer som blir vurdert suspendert/ekskludert, kan ikke stemme i egne saker om suspendering og ekskludering. Ekskluderte medlemmer er stengt ute fra medlemskap i hele Spillmakerlauget i minst ett år fra ekskluderingsvedtak. Deretter kan ekskluderte medlemmer søke om nytt medlemskap med oppheving av ekskludering hvis vedkommende har unnskyldt seg til fornærmede parter og det er grunn til å tro at vedkommende vil følge vedtektene og oppførselsreglene.
 
-## § 5 Kontigent
+## § 5 Kontingent
 Medlemskontingent bestemmes av landsmøtet i Spillmakerlauget (Norge), og landsmøtet bestemmer også hvor mye hvert regionale laug får utdelt av innbetalt kontingent for sine medlemmer. Årsmøte i et regionalt laug kan ved behov fastsette tilleggskontingent som Spillmakerlauget Norge krever inn for dem. Hvis Spillmakerlauget Norge ikke har medlemskontingent, kan årsmøtet i et regionalt laug fastsette kontingent som Spillmakerlauget Norge krever inn direkte fra sine medlemmer.
 
 ## § 6 Stemmerett og valgbarhet
