@@ -69,12 +69,38 @@ Landsmøtet skal behandle følgende saker:
 
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet. Rekkefølgen kan ved behov avgjøres ved skriftlig valg i forhold til stemmetall. Alle styremedlemmer blir valgt for ett år om gangen.
 
-## § 9 Ekstraodinære landsmøter
+## § 9 Ekstraordinære landsmøter
 Ekstraordinære landsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
 Det innkalles på samme måte som for ordinære landsmøter, med minst 1 ukes varsel.
 Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
+Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom landsmøtene.
+
+Styret skal:
+1.	Iverksette landsmøtets bestemmelser.
+1.	Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
+1.	Administrere og føre nødvendig kontroll med Spillmakerlaugets økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
+1.	Representere Spillmakerlauget utad.
+1.	Signere dokumenter for Spillmakerlauget.
+
+Det holdes styremøte minst én gang hvert kvartal. Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
+
+Styret er vedtaksført når et flertall av styrets medlemmer er til stede. Vedtak fattes med flertall av de avgitte stemmene. Ved stemmelikhet teller styrelederens stemme dobbelt.
+
+Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opptil totalt 8 styremedlemmer. Hvis et styremedlem som har trekt seg, var medlem av en medlemsorganisasjon, skal medlemsorganisasjonen først spørres om å utnevne erstatter.
+Supplerte styremedlemmer sitter i styret frem til neste landsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
+
+Under første styremøte etter gjennomført landsmøte skal styret selv fordele følgende roller innad:
+
+- Økonomiansvarlig
+- Sekretær
+
+Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør.
+
+Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelig, kan styret i fellesskap tildele signaturrett og prokura til andre.
+
+Gammelt:
 Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
 
 Hvert regionale laug må levere inn liste over styrerepresentanter og varaer med kontaktinformasjon til Spillmakerlaugets sentralstyre etter at disse er valgt på regionalt årsmøte eller supplert på regionalt styremøte.
