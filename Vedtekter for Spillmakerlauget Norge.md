@@ -45,9 +45,16 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Landsmøtet
-Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
+Landsmøtet, som hvert år holdes senest i juli måned og etter årsmøtene til medlemsorganisasjonene, er foreningens høyeste myndighet. Landsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før landsmøtet.
 
-Hver medlemsorganisasjon kan sende opptil 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
+Alle medlemmer har adgang til landsmøtet. Hvis et landsmøte har minst 20 frammøtte, skal landsmøtet vurdere å vedta delegatsystem for medlemsorganisasjoner for framtidige landsmøter.
+Styret kan invitere andre personer og/eller media til å være til stede.
+
+Landsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møter. Ingen har mer enn én stemme, og stemmegivning kan ikke skje ved fullmakt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
+
+På landsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før landsmøtet, med unntak av justeringer i innkomne forslag. Andre saker utenom sakslisten kan behandles og avgjøres når 2/3 av de fremmøtte krever det. Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
+
+Landsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget Sør.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
