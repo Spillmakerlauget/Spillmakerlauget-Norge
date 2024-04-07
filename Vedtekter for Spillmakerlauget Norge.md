@@ -99,4 +99,6 @@ Alle vedtak i Spillmakerlauget Norge sine organer krever alminnelig flertall hvi
 Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved ⅔ flertall på et landsmøte. En vedtektsendring trer tidligst i kraft etter landsmøtet den vedtas på er hevet.
 
 ## § 14 Oppløsning
-Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
+Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte minst 3 måneder senere hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
+
+Saker som handler om nedleggelse av forening, sammenslåing med andre foreninger og utmelding av forening fra paraplyorganisasjonen må stå på sakslista for ordinært årsmøte for å kunne behandles, og kan ikke tas opp som benkeforslag.
