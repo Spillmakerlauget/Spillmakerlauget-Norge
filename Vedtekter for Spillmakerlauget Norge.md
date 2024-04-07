@@ -1,6 +1,6 @@
 # Vedtekter for Spillmakerlauget Norge
 
-Sist endret 18. juni 2022.
+Sist endret 4. juni 2024.
 
 ## § 1 Navn
 Foreningens navn er Spillmakerlauget og ble stiftet 6. juni 2015. Navnet Spillmakerlauget Norge blir noen ganger brukt for å skille det tydelig fra regionale laug. Engelsk navn er Game Makers Guild of Norway.
