@@ -14,8 +14,8 @@ Lauget har følgende formål:
 - Å være en ideell og uavhengig organisasjon.
 - Å opprette og vedlikeholde felles fora for sine medlemmer og spillnæringen i Norge.
 - Arbeide for rettighetene til arbeidere i spillindustrien.
-- Drift av Spillmakerlauget.no.
-- Drift av medlemsliste.
+- Drifte nettsted.
+- Drifte medlemsliste.
 
 Foreningen baserer seg på frivillig engasjement, og er uavhengig av eksterne organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
 
