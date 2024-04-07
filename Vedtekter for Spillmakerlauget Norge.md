@@ -75,7 +75,7 @@ Det innkalles på samme måte som for ordinære landsmøter, med minst 1 ukes va
 Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
-Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og helst også en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
+Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
 
 Hvert regionale laug må levere inn liste over styrerepresentanter og varaer med kontaktinformasjon til Spillmakerlaugets sentralstyre etter at disse er valgt på regionalt årsmøte eller supplert på regionalt styremøte.
 
@@ -96,9 +96,7 @@ For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget,
 Alle vedtak i Spillmakerlauget Norge sine organer krever alminnelig flertall hvis ikke annet er spesifisert i vedtektene. Ved stemmelikhet i styret eller på landsmøtet avgjør styreleders stemme.
 
 ## § 13 Vedtektsendring
-Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved ⅔ flertall på et landsmøte. Forslag til endring av vedtektene må være sendt til styret senest en måned før landsmøtet. En vedtektsendring trer tidligst i kraft etter landsmøtet den vedtas på er hevet.
-
-Uanmeldte vedtekter og/eller vedtektsendringer tatt opp på landsmøtet kan endres om det blir enstemmig vedtatt.
+Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved ⅔ flertall på et landsmøte. En vedtektsendring trer tidligst i kraft etter landsmøtet den vedtas på er hevet.
 
 ## § 14 Oppløsning
 Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
