@@ -64,10 +64,10 @@ Landsmøtet skal behandle følgende saker:
 1.	Vedta budsjett.
 1.	Behandle innkomne forslag og saker.
 1.	Velge:
-    - Leder og eventuelt nestleder annethvert år
-    - Revisor (hvis foreningen er revisjonspliktig)
+    - Leder og nestleder
+    - Revisor, hvis foreningen er revisjonspliktig
 
-Leder og nestleder velges enkeltvis.
+Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet. Rekkefølgen kan ved behov avgjøres ved skriftlig valg i forhold til stemmetall. Alle styremedlemmer blir valgt for ett år om gangen.
 
 ## § 9 Ekstraodinære landsmøter
 Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst 2 ukers varsel og kun sakene nevnt i innkallingen kan tas opp.
