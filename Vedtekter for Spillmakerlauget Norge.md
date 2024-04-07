@@ -45,7 +45,7 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Landsmøtet
-Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Styret skal sende ut saksliste minst 5 dager før landsmøtet.
+Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før årsmøtet.
 
 Hver medlemsorganisasjon kan sende opptil 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
 
