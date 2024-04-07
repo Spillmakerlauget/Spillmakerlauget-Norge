@@ -70,7 +70,9 @@ Landsmøtet skal behandle følgende saker:
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet. Rekkefølgen kan ved behov avgjøres ved skriftlig valg i forhold til stemmetall. Alle styremedlemmer blir valgt for ett år om gangen.
 
 ## § 9 Ekstraodinære landsmøter
-Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst 2 ukers varsel og kun sakene nevnt i innkallingen kan tas opp.
+Ekstraordinære landsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
+Det innkalles på samme måte som for ordinære landsmøter, med minst 1 ukes varsel.
+Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
 Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og helst også en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
