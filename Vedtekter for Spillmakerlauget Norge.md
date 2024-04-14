@@ -54,7 +54,7 @@ Landsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møte
 
 På landsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før landsmøtet, med unntak av justeringer i innkomne forslag. Andre saker utenom sakslisten kan behandles og avgjøres når 2/3 av de fremmøtte krever det. Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
 
-Landsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget Sør.
+Landsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
