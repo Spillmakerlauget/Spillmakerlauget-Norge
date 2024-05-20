@@ -65,6 +65,8 @@ Landsmøtet skal behandle følgende saker:
 1.	Behandle innkomne forslag og saker.
 1.	Velge:
     - Leder og nestleder
+    - Minst 1 styremedlem
+    - Eventuelle varamedlemmer
     - Revisor, hvis foreningen er revisjonspliktig
 
 Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet. Rekkefølgen kan ved behov avgjøres ved skriftlig valg i forhold til stemmetall. Alle styremedlemmer blir valgt for ett år om gangen.
