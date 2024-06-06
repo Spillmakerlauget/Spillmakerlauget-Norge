@@ -74,7 +74,7 @@ Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges saml
 ## § 9 Ekstraordinære landsmøter
 Ekstraordinære landsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
 Det innkalles på samme måte som for ordinære landsmøter, med minst 1 ukes varsel.
-Ekstraordinært årsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
+Ekstraordinært landsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
 Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom landsmøtene.
@@ -129,4 +129,4 @@ Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved �
 ## § 14 Oppløsning
 Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte minst 3 måneder senere hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
 
-Saker som handler om nedleggelse av forening, sammenslåing med andre foreninger og utmelding av forening fra paraplyorganisasjonen må stå på sakslista for ordinært årsmøte for å kunne behandles, og kan ikke tas opp som benkeforslag.
+Saker som handler om nedleggelse av forening, sammenslåing med andre foreninger og utmelding av forening fra paraplyorganisasjonen må stå på sakslista for ordinært landsmøte for å kunne behandles, og kan ikke tas opp som benkeforslag.
