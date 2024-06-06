@@ -1,6 +1,6 @@
 # Vedtekter for Spillmakerlauget Norge
 
-Sist endret 18. juni 2022.
+Sist endret 4. juni 2024.
 
 ## § 1 Navn
 Foreningens navn er Spillmakerlauget og ble stiftet 6. juni 2015. Navnet Spillmakerlauget Norge blir noen ganger brukt for å skille det tydelig fra regionale laug. Engelsk navn er Game Makers Guild of Norway.
@@ -14,8 +14,8 @@ Lauget har følgende formål:
 - Å være en ideell og uavhengig organisasjon.
 - Å opprette og vedlikeholde felles fora for sine medlemmer og spillnæringen i Norge.
 - Arbeide for rettighetene til arbeidere i spillindustrien.
-- Drift av Spillmakerlauget.no.
-- Drift av medlemsliste.
+- Drifte nettsted.
+- Drifte medlemsliste.
 
 Foreningen baserer seg på frivillig engasjement, og er uavhengig av eksterne organisasjoner som medlemmer arbeider i og organisasjoner som sponser foreningen.
 
@@ -45,9 +45,16 @@ Alle medlemmer som har stemmerett er valgbare til tillitsverv i foreningen, og s
 Tillitsvalgte kan motta rimelig honorar for sitt arbeid samt refusjon for faktiske utgifter, inkludert tapt arbeidsfortjeneste så fremt foreningen har tilgang til slik kapital. Utgifter til godtgjørelse, honorar og refusjon for faktiske utgifter skal fremgå av budsjett og regnskap.
 
 ## § 8 Landsmøtet
-Landsmøtet er Spillmakerlauget Norge sitt øverste organ og skal avholdes hvert medlemsår. Styret er pålagt å innkalle til landsmøtet med minst 2 ukers varsel. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Styret skal sende ut saksliste minst 5 dager før landsmøtet.
+Landsmøtet, som hvert år holdes senest i juli måned og etter årsmøtene til medlemsorganisasjonene, er foreningens høyeste myndighet. Landsmøtet innkalles av styret med minst 2 ukers varsel, direkte til medlemmene og gjerne også gjennom offisielle foreningskanaler på Internett. Forslag som skal behandles på landsmøtet skal være sendt til styret senest 1 uke før landsmøtet. Fullstendig saksliste må være tilgjengelig for medlemmene senest 5 dager før landsmøtet.
 
-Hver medlemsorganisasjon kan sende opptil 2 representanter til landsmøtet i tillegg til medlemsorganisasjonens representanter i Spillmakerlauget Norge sitt styre. Alle representanter har stemmerett ved sakene som tas opp. Styret i hvert regionalt laug melder fra hvem de sender som delegater til landsmøtet, senest 3 uker før landsmøtet. Benkeforslag er tillatt.
+Alle medlemmer har adgang til landsmøtet. Hvis et landsmøte har minst 20 frammøtte, skal landsmøtet vurdere å vedta delegatsystem for medlemsorganisasjoner for framtidige landsmøter.
+Styret kan invitere andre personer og/eller media til å være til stede.
+
+Landsmøtet er vedtaksført med det antall stemmeberettigede medlemmer som møter. Ingen har mer enn én stemme, og stemmegivning kan ikke skje ved fullmakt. Styret plikter å sette opp et digitalt alternativ for medlemmer som ikke kan møte fysisk.
+
+På landsmøtet kan det ikke behandles forslag om vedtektsendring som ikke er oppført på sakslisten senest 1 uke før landsmøtet, med unntak av justeringer i innkomne forslag. Andre saker utenom sakslisten kan behandles og avgjøres når 2/3 av de fremmøtte krever det. Slik beslutning kan bare tas i forbindelse med godkjenning av sakslisten.
+
+Landsmøtet ledes av valgt møteleder. Møtelederen behøver ikke å være medlem av Spillmakerlauget.
 
 Landsmøtet skal behandle følgende saker:
 1.	Velge møteleder, referent og 2 protokollunderskrivere.
@@ -57,16 +64,46 @@ Landsmøtet skal behandle følgende saker:
 1.	Vedta budsjett.
 1.	Behandle innkomne forslag og saker.
 1.	Velge:
-    - Leder og eventuelt nestleder annethvert år
-    - Revisor (hvis foreningen er revisjonspliktig)
+    - Leder og nestleder
+    - Minst 1 styremedlem
+    - Eventuelle varamedlemmer
+    - Revisor, hvis foreningen er revisjonspliktig
 
-Leder og nestleder velges enkeltvis.
+Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges samlet. Deretter velges eventuelle varamedlemmer samlet. Rekkefølgen kan ved behov avgjøres ved skriftlig valg i forhold til stemmetall. Alle styremedlemmer blir valgt for ett år om gangen.
 
-## § 9 Ekstraodinære landsmøter
-Det avholdes ekstraordinært landsmøte hvis over en tredjedel av medlemsorganisasjonene eller over halvparten av styret i Spillmakerlauget Norge krever det. Innkalling må sendes ut med minst 2 ukers varsel og kun sakene nevnt i innkallingen kan tas opp.
+## § 9 Ekstraordinære landsmøter
+Ekstraordinære landsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
+Det innkalles på samme måte som for ordinære landsmøter, med minst 2 ukers varsel.
+Ekstraordinært landsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
-Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og helst også en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
+Foreningen ledes av et styre på minst 3 til maks 8 medlemmer. Det kan i tillegg være et valgfritt antall varamedlemmer. Styret er høyeste myndighet mellom landsmøtene.
+
+Styret skal:
+1.	Iverksette landsmøtets bestemmelser.
+1.	Oppnevne etter behov komiteer/utvalg/personer for spesielle oppgaver og utarbeide instruks for disse.
+1.	Administrere og føre nødvendig kontroll med Spillmakerlaugets økonomi i henhold til de til enhver tid gjeldende instrukser og bestemmelser.
+1.	Representere Spillmakerlauget utad.
+1.	Signere dokumenter for Spillmakerlauget.
+
+Det holdes styremøte minst én gang hvert kvartal. Styret skal holde møte når lederen forlanger det eller et flertall av styremedlemmene forlanger det.
+
+Styret er vedtaksført når et flertall av styrets medlemmer er til stede. Vedtak fattes med flertall av de avgitte stemmene. Ved stemmelikhet teller styrelederens stemme dobbelt.
+
+Styret har fullmakt til å supplere seg selv (ved frafall eller behov) opptil totalt 8 styremedlemmer. Hvis et styremedlem som har trekt seg, var medlem av en medlemsorganisasjon, skal medlemsorganisasjonen først spørres om å utnevne erstatter.
+Supplerte styremedlemmer sitter i styret frem til neste landsmøte. Styret kan utnevne fungerende leder og nestleder ved behov.
+
+Under første styremøte etter gjennomført landsmøte skal styret selv fordele følgende roller innad:
+
+- Økonomiansvarlig
+- Sekretær
+
+Styremedlemmene kan nominere seg selv eller andre styremedlemmer til disse rollene. Ved flere nominerte til en rolle holdes hemmelig valg der alminnelig flertall avgjør.
+
+Styrets leder og nestleder har hver for seg både signaturrett og prokura. Dersom verken styreleder eller nestleder er tilgjengelig, kan styret i fellesskap tildele signaturrett og prokura til andre.
+
+Gammelt:
+Utenfor landsmøtet er styret Spillmakerlauget Norges øverste organ. Styret skal bestå av minst tre medlemmer, blant disse en leder og en nestleder. Hvis mulig, skal det være en representant fra hvert regionale laug.
 
 Hvert regionale laug må levere inn liste over styrerepresentanter og varaer med kontaktinformasjon til Spillmakerlaugets sentralstyre etter at disse er valgt på regionalt årsmøte eller supplert på regionalt styremøte.
 
@@ -87,9 +124,9 @@ For avdelingers/gruppers økonomiske forpliktelser hefter hele Spillmakerlauget,
 Alle vedtak i Spillmakerlauget Norge sine organer krever alminnelig flertall hvis ikke annet er spesifisert i vedtektene. Ved stemmelikhet i styret eller på landsmøtet avgjør styreleders stemme.
 
 ## § 13 Vedtektsendring
-Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved ⅔ flertall på et landsmøte. Forslag til endring av vedtektene må være sendt til styret senest en måned før landsmøtet. En vedtektsendring trer tidligst i kraft etter landsmøtet den vedtas på er hevet.
-
-Uanmeldte vedtekter og/eller vedtektsendringer tatt opp på landsmøtet kan endres om det blir enstemmig vedtatt.
+Vedtektene er Spillmakerlauget Norge sitt øverste regelverk og kan endres ved ⅔ flertall på et landsmøte. En vedtektsendring trer tidligst i kraft etter landsmøtet den vedtas på er hevet.
 
 ## § 14 Oppløsning
-Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
+Spillmakerlauget Norge kan bare oppløses ved enstemmig flertall på et ordinært landsmøte og et påfølgende ekstraordinært landsmøte minst 3 måneder senere hvor oppløsning er eneste sak som skal behandles. På det ekstraordinære møtet må det være minimum en representant til stede fra hver medlemsorganisasjon samt Spillmakerlauget Norges fulle styre. Ved oppløsning bestemmer landsmøtet fordelingen av Spillmakerlauget Norge sine midler.
+
+Saker som handler om nedleggelse av forening, sammenslåing med andre foreninger og utmelding av forening fra paraplyorganisasjonen må stå på sakslista for ordinært landsmøte for å kunne behandles, og kan ikke tas opp som benkeforslag.
