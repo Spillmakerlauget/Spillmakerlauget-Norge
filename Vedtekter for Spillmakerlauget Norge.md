@@ -73,7 +73,7 @@ Leder og nestleder velges enkeltvis. De øvrige medlemmer til styret velges saml
 
 ## § 9 Ekstraordinære landsmøter
 Ekstraordinære landsmøter holdes når styret bestemmer det, eller minst en tredjedel av de stemmeberettigede medlemmene krever det.
-Det innkalles på samme måte som for ordinære landsmøter, med minst 1 ukes varsel.
+Det innkalles på samme måte som for ordinære landsmøter, med minst 2 ukers varsel.
 Ekstraordinært landsmøte kan bare behandle og ta avgjørelse i de sakene som er kunngjort i innkallingen.
 
 ## § 10 Styret
